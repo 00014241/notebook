@@ -9,12 +9,12 @@ $ npm install
 $ npm start
 ```
 ## Dependencies
--Node.js v18.15.0
--Express.js v4.18.2
--MongoDB
--Mongoose v7.0.3
--Bootstrap v5.3.0
--Passport v0.6.0
+- Node.js v18.15.0
+- Express.js v4.18.2
+- MongoDB
+- Mongoose v7.0.3
+- Bootstrap v5.3.0
+- Passport v0.6.0
 ## GitHub
 [GitHub](https://github.com/00014241/notebook)
 [Notebook](https://graceful-pants-colt.cyclic.app/)
